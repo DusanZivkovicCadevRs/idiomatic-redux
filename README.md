@@ -18,5 +18,5 @@ yarn start
 
 All the other actions you can use create-react-app instructions of course.
 
-## More general js development
+## More general react,js,webpack... development
 https://github.com/markerikson/react-redux-links
