@@ -1,5 +1,8 @@
 # React with Idiomatic Redux
 
+## Prerequisite
+https://github.com/tayiorbeii/egghead.io_redux_course_notes/blob/master/01-Intro_and_3_Principles_of_Redux.md
+
 ## Starting conde
 https://github.com/devserkan/react-with-idiomatic-redux
 
